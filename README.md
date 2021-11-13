@@ -1,2 +1,2 @@
 # Games
-Misc codes for games
+Misc codes for games.
